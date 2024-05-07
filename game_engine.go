@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func startGame() {
+func StartGame() {
 	fmt.Println("Game started")
 }
